@@ -1,0 +1,14 @@
+E:\C#\learning projects\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+E:\C#\learning projects\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+E:\C#\learning projects\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+E:\C#\learning projects\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+E:\C#\learning projects\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+E:\C#\learning projects\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll
